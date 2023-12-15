@@ -1,6 +1,8 @@
-# CS410 Course Project
+# CS410_CourseProject
 
 ## Overview
+
+[AMZSentiment Installation and Usage Tutorial](https://www.youtube.com/watch?v=JfcbqbA6XCw)
 
 AMZSentiment, a Chrome extension seamlessly integrated with Amazon product pages, offers real-time sentiment analysis
 from multiple models. With an intuitive interface displaying sentiment indicators, users quickly grasp overall emotional
@@ -71,6 +73,8 @@ If you want to run the extension locally, follow the steps below.
 5. The extension will redirect you to the review page and display the sentiment analysis results for the product
    reviews.
 6. Click on the "Next" button to navigate to the next page of reviews.
+
+You can refer to the [Installation and Usage Tutorial](https://www.youtube.com/watch?v=JfcbqbA6XCw) for more details.
 
 ## Details
 
