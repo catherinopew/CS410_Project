@@ -1,0 +1,35 @@
+{
+  "manifest_version": 3,
+  "name": "AMZSentiment",
+  "version": "1.0",
+  "description": "An Amazon extension that provides sentiment analysis of product reviews",
+  "permissions": [
+    "activeTab",
+    "storage",
+    "scripting"
+  ],
+  "host_permissions": [
+    "*://www.amazon.com/*/product-reviews/*",
+    "http://ec2-34-239-197-4.compute-1.amazonaws.com/*"
+  ],
+  "action": {
+    "default_icon": "Icons/extension_icon_48px.png",
+    "default_popup": "popup.html"
+  },
+  "icons": {
+    "16": "Icons/extension_icon_16px.png",
+    "48": "Icons/extension_icon_48px.png",
+    "128": "Icons/extension_icon_128px.png"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "*://www.amazon.com/*/product-reviews/*"
+      ],
+      "js": [
+        "content.js"
+      ]
+    }
+  ]
+}
+    

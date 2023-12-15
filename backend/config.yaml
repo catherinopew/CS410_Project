@@ -1,0 +1,19 @@
+rabbitmq:
+  host: localhost
+  port: 5672
+  queue_name: messages
+  username: user
+  password: password
+  connection_attempts: 3
+  retry_delay: 5
+  socket_timeout: 5
+  heartbeat: 36000
+
+postgres:
+  host: localhost
+  port: 5432
+  database: app_db
+  username: user
+  password: password
+  minconn: 1
+  maxconn: 5

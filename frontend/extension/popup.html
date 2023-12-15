@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="popup.css">
+    <title>AMZSentiment</title>
+</head>
+<body>
+<div class="header">
+    <img id="extensionIcon" src="Icons/extension_icon_48px.png" alt="extension icon"/>
+    <h1 id="extensionName">AMZSentiment</h1>
+</div>
+<div class="lds-ring">
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+</div>
+<div class="loading-msg">
+    <p>Please wait patiently. Sentiment analysis may take up to 30 seconds.</p>
+</div>
+<div id="error-msg"></div>
+<div class="styled-table-container">
+    <table class="styled-table">
+        <thead>
+        </thead>
+        <tbody>
+        </tbody>
+    </table>
+</div>
+<script src="content.js"></script>
+<script src="utils.js"></script>
+<script src="popup.js"></script>
+</body>
+</html>

@@ -1,0 +1,12 @@
+[Unit]
+Description=Analyzer
+After=network.target
+
+[Service]
+User=ubuntu
+WorkingDirectory=/home/ubuntu/tmp/CS410_projectv2/backend
+ExecStart=/home/ubuntu/tmp/CS410_projectv2/venv/bin/python3 /home/ubuntu/tmp/CS410_projectv2/backend/run_analyzer.py
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
