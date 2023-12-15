@@ -1,4 +1,4 @@
-# CS410_CourseProject
+# CS410 Course Project
 
 ## Overview
 
