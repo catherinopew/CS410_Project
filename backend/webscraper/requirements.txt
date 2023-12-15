@@ -1,5 +1,0 @@
-flask
-selectorlib
-requests
-json
-dateutil

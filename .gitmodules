@@ -1,3 +1,0 @@
-[submodule "webscraper"]
-	path = backend/webscraper
-	url = https://github.com/alyosharomanov/amazon-review-api.git
