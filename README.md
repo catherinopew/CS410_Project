@@ -4,6 +4,8 @@
 
 [AMZSentiment Installation and Usage Tutorial](https://www.youtube.com/watch?v=JfcbqbA6XCw)
 
+[Code Overview](https://www.youtube.com/watch?v=QVRPHDk0c8g) - Chapters for each of the code sections can be found in the video description.
+
 AMZSentiment, a Chrome extension seamlessly integrated with Amazon product pages, offers real-time sentiment analysis
 from multiple models. With an intuitive interface displaying sentiment indicators, users quickly grasp overall emotional
 tones—positive, negative, or neutral. Its unique feature allows granular analysis for deeper insights and personalized
@@ -67,7 +69,7 @@ install it locally by following the steps below.
 If you want to run the extension locally, follow the steps below.
 
 1. Clone the repository.
-2. In Chrome (or any Chromium based browser), go to `chrome://extensions/` and enable developer mode.
+2. In Chrome (or any Chromium-based browser), go to `chrome://extensions/` and enable developer mode.
 3. Click on "Load unpacked" and select the `frontend/extension` folder.
 4. Navigate to any Amazon product page and click on the extension icon.
 5. The extension will redirect you to the review page and display the sentiment analysis results for the product
