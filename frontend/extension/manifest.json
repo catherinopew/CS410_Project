@@ -5,7 +5,6 @@
   "description": "An Amazon extension that provides sentiment analysis of product reviews",
   "permissions": [
     "activeTab",
-    "storage",
     "scripting"
   ],
   "host_permissions": [
