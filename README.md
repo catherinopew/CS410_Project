@@ -24,7 +24,7 @@ reviews.
 1. [Server](/backend/README.md) \
    1.1 [Webservice](backend/webservice/README.md) \
    1.2 [Analyzer](backend/analyzer/README.md) \
-   1.3 [Scraper](https://github.com/alyosharomanov/amazon-review-api/blob/148d911bb97bca1cda8fb6a44645eab7aad09535/README.md)
+   1.3 ~~[Scraper](https://github.com/alyosharomanov/amazon-review-api/blob/148d911bb97bca1cda8fb6a44645eab7aad09535/README.md)~~ deprecated
 2. [Extension](frontend/extension/README.md)
 
 ## Team Members
