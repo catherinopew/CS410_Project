@@ -4,7 +4,8 @@
 
 [AMZSentiment Installation and Usage Tutorial](https://www.youtube.com/watch?v=JfcbqbA6XCw)
 
-[Code Overview](https://www.youtube.com/watch?v=QVRPHDk0c8g) - Chapters for each of the code sections can be found in the video description.
+[Code Overview](https://www.youtube.com/watch?v=QVRPHDk0c8g) - Chapters for each of the code sections can be found in
+the video description.
 
 AMZSentiment, a Chrome extension seamlessly integrated with Amazon product pages, offers real-time sentiment analysis
 from multiple models. With an intuitive interface displaying sentiment indicators, users quickly grasp overall emotional
@@ -15,6 +16,11 @@ reviews.
 
 ![extension example](/docs/imgs/extension.png)
 
+## Documents
+
+[Project Proposal](/docs/project_proposal.pdf)\
+[Progress Report](/docs/progress_report.pdf)
+
 ## Schema
 
 ![project schema](/docs/imgs/schema.png)
@@ -24,7 +30,9 @@ reviews.
 1. [Server](/backend/README.md) \
    1.1 [Webservice](backend/webservice/README.md) \
    1.2 [Analyzer](backend/analyzer/README.md) \
-   1.3 ~~[Scraper](https://github.com/alyosharomanov/amazon-review-api/blob/148d911bb97bca1cda8fb6a44645eab7aad09535/README.md)~~ deprecated
+   1.3
+   ~~[Scraper](https://github.com/alyosharomanov/amazon-review-api/blob/148d911bb97bca1cda8fb6a44645eab7aad09535/README.md)~~
+   deprecated
 2. [Extension](frontend/extension/README.md)
 
 ## Team Members
