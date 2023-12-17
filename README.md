@@ -70,9 +70,15 @@ Server (Flask-based RESTful Web Service):
 
 ## Quick Start
 
-~~You can install the extension from the [Chrome Web Store](https://chromewebstore.google.com/).~~ \
-Note: The extension is currently in the review process and is not yet available on the Chrome Web Store. You can still
-install it locally by following the steps below.
+You can install the extension from the [Chrome Web Store](https://chrome.google.com/webstore/detail/akngjlcdebllhcchbpglbhpgllkgmjlf?authuser=0&hl=en):
+
+1. Visit the Chrome store link above.
+2. Click on "Add to Chrome" and then click on "Add Extension".
+3. Navigate to any Amazon product page and click on the extension icon.
+4. The extension will redirect you to the review page and display the sentiment analysis results for the product
+   reviews.
+5. Click on the "Next" button to navigate to the next page of reviews.
+
 
 If you want to run the extension locally, follow the steps below.
 
