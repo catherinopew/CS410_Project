@@ -1,4 +1,6 @@
-# CS410 Course Project : AMZSentiment
+# CS410 Course Project: AMZSentiment
+
+[Download from the Chrome Web Store](https://chrome.google.com/webstore/detail/akngjlcdebllhcchbpglbhpgllkgmjlf?authuser=0&hl=en)
 
 ## Overview
 
